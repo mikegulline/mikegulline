@@ -1,6 +1,18 @@
 # My name is Mike
 
-### I am a creative full-stack web developer! I love building dynamic, interactive user experiences using HTML5, CSS/TailwindCSS, TypeScript, React and NextJS.
+### I am a creative full-stack web developer!
+
+### I love building dynamic, interactive user experiences using…
+
+### - HTML5
+
+### - CSS/TailwindCSS
+
+### - TypeScript
+
+### - React
+
+### - NextJS
 
 ### 💥 Check out my portfolio [gulline.com](https://www.gulline.com/)
 
