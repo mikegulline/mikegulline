@@ -10,7 +10,7 @@ I love building dynamic, interactive user experiences using…
 - React
 - NextJS
 
-💥 Check out my portfolio [gulline.com](https://www.gulline.com/)
+💥 Check out my portfolio [mikegulline.com](https://www.gulline.com/)
 
 <!--
 **mikegulline/mikegulline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
