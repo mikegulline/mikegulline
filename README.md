@@ -4,15 +4,11 @@
 
 ### I love building dynamic, interactive user experiences using…
 
-### - HTML5
-
-### - CSS/TailwindCSS
-
-### - TypeScript
-
-### - React
-
-### - NextJS
+- HTML5
+- CSS/TailwindCSS
+- TypeScript
+- React
+- NextJS
 
 ### 💥 Check out my portfolio [gulline.com](https://www.gulline.com/)
 
