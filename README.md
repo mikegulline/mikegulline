@@ -10,7 +10,14 @@ I love building dynamic, interactive user experiences using…
 - React
 - NextJS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux&perline=7)](https://www.gulline.com/resume)
+[![Backend](https://skillicons.dev/icons?i=nextjs,nodejs,php&perline=3)](https://www.gulline.com/resume)
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,prisma,graphql&perline=4)](https://www.gulline.com/resume)
+[![Testing](https://skillicons.dev/icons?i=jest,vitest&perline=2)](https://www.gulline.com/resume)
+[![CMS](https://skillicons.dev/icons?i=wordpress,prisma&perline=2)](https://www.gulline.com/resume)
+[![Version Controle](https://skillicons.dev/icons?i=github&perline=1)](https://www.gulline.com/resume)
+[![IDE](https://skillicons.dev/icons?i=vscode&perline=1)](https://www.gulline.com/resume)
+[![Graphics](https://skillicons.dev/icons?ps,ai,figma&perline=3)](https://www.gulline.com/resume)
 
 💥 Check out my portfolio [mikegulline.com](https://www.gulline.com/)
 
