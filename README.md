@@ -4,13 +4,13 @@
 
 I love building dynamic, interactive user experiences using…
 
-- HTML5
+<!-- - HTML5
 - CSS/TailwindCSS
 - TypeScript
 - React
-- NextJS
+- NextJS -->
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux&perline=7)](https://www.gulline.com/resume)
+Frontend [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux&perline=7)](https://www.gulline.com/resume)
 
 [![Backend](https://skillicons.dev/icons?i=nextjs,nodejs,php&perline=3)](https://www.gulline.com/resume)
 
