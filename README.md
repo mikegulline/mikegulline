@@ -10,6 +10,8 @@ I love building dynamic, interactive user experiences using…
 - React
 - NextJS
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=3)](https://skillicons.dev)
+
 💥 Check out my portfolio [mikegulline.com](https://www.gulline.com/)
 
 <!--
